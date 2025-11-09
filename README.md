@@ -79,11 +79,11 @@
 ## 🌐 Find Me At
 
 <div>
-	<a href="https://github.com/Aditya-Pandey-GH"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" width="40" height="40" align="center" alt="GitHub" /></a>
+	<a href=""><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" width="40" height="40" align="center" alt="GitHub" /></a>
 	<img width="12" />
-	<a href="https://www.linkedin.com/in/aditya-pandey-in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" align="center" alt="LinkedIn" /></a>
+	<a href=""><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" align="center" alt="LinkedIn" /></a>
 	<img width="12" />
-	<a href="https://leetcode.com/u/Aditya-Pandey-LC"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" width="40" height="40" align="center" alt="LeetCode" /></a>
+	<a href=""><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" width="40" height="40" align="center" alt="LeetCode" /></a>
 	<img width="12" />
 	<!-- <img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" width="40" height="40" align="center" alt="Portfolio" /> -->
 	<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
