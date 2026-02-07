@@ -1,7 +1,4 @@
-
-<!-- ![Cover Photo](https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Cover%20Art.svg)
--->
-<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-Pandey-GH.Aditya-Pandey-GH) -->
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sahil870072.Sahil870072) -->
 
 
 ## 👋 About Me
@@ -71,7 +68,7 @@
 ## 🕹️ Projects
 
 <div>
-	<a href="https://github.com/Aditya-Pandey-GH/Health-Elevator-Legacy"><img src="https://aditya-pandey.vercel.app/projects/websites/healthElev/Icon.avif" width="75" height="75" align="center" alt="Health Elevator" /></a>
+	<a href=""><img src="" width="75" height="75" align="center" alt="Health Elevator" /></a>
 	<img width="12" />
 </div>
 
@@ -85,8 +82,6 @@
 	<img width="12" />
 	<a href=""><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" width="40" height="40" align="center" alt="LeetCode" /></a>
 	<img width="12" />
-	<!-- <img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" width="40" height="40" align="center" alt="Portfolio" /> -->
-	<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
 </div>
 
 
@@ -94,30 +89,13 @@
 
 <div align="justify">
 	<p>
-		<a href="https://komarev.com/ghpvc/?username=Sahil870072&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH">
-			<img src="https://komarev.com/ghpvc/?username=Sahil870072&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" width="150" height="25" />
+		<a href="https://komarev.com/ghpvc/?username=Sahil870072&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil">
+			<img src="https://komarev.com/ghpvc/?username=Sahil870072&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil" width="150" height="25" />
 		</a>
 	</p>
-  <!--
-	<p>
-		<a href="https://github-profile-trophy.vercel.app/?username=Sahil870072&theme=monokai&bg_color=151515&margin-w=15">
-			<img src="https://github-profile-trophy.vercel.app/?username=Sahil870072&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
-		</a>
-	</p>
-	<p>
-		<a href="https://streak-stats.demolab.com?user=Sahil870072&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D">
-			<img src="https://streak-stats.demolab.com?user=Sahil870072&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-		</a>
-	</p>
-	<p>
-		<a href="https://github-readme-stats.vercel.app/api?username=Sahil870072&theme=gruvbox&bg_color=151515&custom_title=GitHub%20Stats&show_icons=true&locale=en">
-			<img src="https://github-readme-stats.vercel.app/api?username=Sahil870072&theme=gruvbox&bg_color=151515&custom_title=GitHub%20Stats&show_icons=true&locale=en" alt="GitHub Stats of Aditya Pandey" />
-		</a>
-	</p>
-  -->
 	<p>
 		<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil870072&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil870072&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact" alt="Skill Set of Aditya Pandey" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil870072&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact" alt="" />
 		</a>
 	</p>
 </div>
